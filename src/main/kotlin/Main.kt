@@ -7,7 +7,7 @@
 * Und das Programm erweitern
 *
 * @wk_main
-* */
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * */
 
 fun main(args: Array<String>) {
 
